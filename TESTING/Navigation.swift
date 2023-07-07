@@ -13,6 +13,7 @@ struct Navigation: View {
             VStack{
                 
                 SwiftUIView()
+                SwiftUIView()
                 
                 Spacer()
                 
